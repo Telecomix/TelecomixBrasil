@@ -1,0 +1,83 @@
+# COMO CONSTRUIR UM CLUSTER TELECOMIX #
+ 
+### Originalmente publicado em interfax.werebuild.eu, em algum momento durante 2009 ###
+ 
+Queremos ser copiados porque acreditamos que não há limite a quantos grupos de ativistas podem existir no mundo. Abaixo estão algumas instruções sobre como nós fizemos isso. É claro que, há uma infinidade de outras maneiras de fazê-lo. Nós apenas queremos compartilhar nossas experiências.
+ 
+1. Faça uma festa com amigos que compartilham interesses semelhantes. Cozinhe algum alimento que você gosta, compre cerveja, ou o que você preferir. Verifique se você tem conectividade à Internet e incentive as pessoas a trazerem seus notebooks. Ouçam música ou, se não tiverem um lugar para se entreter, encontrem um pub ou uma cafeteria com acesso a Internet onde vocês possam se encontrar e trazer seus notebooks também.
+ 
+2. Iniciem um canal de IRC e espalhem por toda a internet que este é o lugar onde as coisas acontecem. Use uma rede legal como a Freequest ou Anonnet. Obtenham um shell IRC. "A sua casa é onde está a sua alma" (quem disse isso?).
+ 
+3. Reúna amigos com várias habilidades. Você vai precisar de programadores, assim como, filósofos, pessoas que entendem de política e pessoas que saibam usar Photoshop (ou GIMP, que é gratuito). Tenha certeza que seus amigos também sabem se divertir, se não, vocês não vão conseguir fazer nada. Ativismo não é uma ciência exata, então só libere as habilidades. Pensar juntos é melhor que a esperteza!
+ 
+4. Registre sites com nomes legais, como Werebuild.eu, Telecomix.org ou TelecomixII.org. Certifique-se de que as pessoas possam encontrá-lo facilmente. Use slogans.
+ 
+5. Vire amigo de pessoas importantes. Fale com políticos, burocratas, presidentes, corporações, outros ativistas, hackers, artistas, etc. Não tenha preconceitos para escolher de antemão com quem falar. Converse bastante, mas nunca faça nada que irá se arrepender. Construa confiança, e tenha certeza que vocês trabalham juntos. Políticos precisarão de votos, corporações vão precisar do seu consumo. Entenda que você é importante, mas não é importante sozinho. Façam coisas como ver filmes juntos para manter os pés no chão.
+ 
+6. Instale Mediawiki, Wordpress e use Etherpad. Além disso, preencha seu canal IRC com bots. Compartilhe todos os dados. Não respeite direitos autorais! Propriedade intelectual é ilegítima.
+ 
+7. Façam mais festas. Inventem vocabulários. Falem como lolcats. Façam música juntos, mesmo isso parecendo estranho.
+ 
+8. Se você se deparar com trolls na Internet, trolle de volta ou certifique-se de chuta-los pra longe de você na Internet. Ou, seja mais frio e faça-os se juntar a você (pesquise por “Troll them back”) Não deixe-os chatear você.
+ 
+9. Comecem campanhas políticas. Chamem de manifestações, operações, projetos ou qualquer outra coisa. Escreva instruções e tutoriais. Tenha certeza que um noob possa entender o que vocês querem fazer. Sincronizem seu trabalho. Contagem regressiva apenas como uma canela de espaço descola.
+ 
+10. Faça uma lista de pontos de para uma conversa clara e simples, para o caso em que você precise "apresentar" em cima da hora. Tenha certeza de que você tem alguns fatos fáceis de lembrar para registrar todos os seus pontos. Faça camisetas para incentivar conversas com pessoas aleatórias nas ruas. Alugue um avião com um banner atrás dele para obter uma cidade inteira perguntando "quem/o quê era isso". Coloque pessoas em todas as esquinas para dar explicações. Envie pessoas para Lua e piche a sua URL na superfície. <3
+ 
+11. Instale um bot de Inteligência Artificial (Cobe parece ser bom). O nosso se chama Cameron. Pergunte-a muitas coisas. Mencione Cameron nas conversas.
+ 
+12. Traduza material para outros idiomas. Lembre-se que a Internet não se preocupa com nacionalidades. Nunca se sabe quem vai se juntar a você se você ir para fora. Carimbe o seu visto de Internet no seu passaporte.
+ 
+13. Instruções não são apenas para afirmar as coisas. Ao enviar mensagens de eventos e etc. faça com que fiquem inesquecíveis e eternas. Por exemplo, ao fazer lembretes públicos para pessoas com poder, você pode mudar a programação deles.
+ 
+14. Mesmo se você estiver lutando contra leis horríveis, contra abusos cometidos por agências e políticos, mesmo se sua missão parecer impossível de realizar - não fique triste! Lulz é tão importante quanto a mudança. Seu objetivo pode ser sério mesmo que você apenas faça isto para o lulz. Lembre-se de sorrir quando você estiver no meio de uma campanha tempestuosa.
+ 
+15. Só, nunca esteja triste, isso não é muito lolcat.
+ 
+16. Crie uma rede GIGANTE no Twitter. Sempre que você tweetar algo,tenha pessoas para retweetá-lo, e peça aos seus amigos para retweetá-lo também pois tweets se multiplicam como coelhos! Lute sempre para que os tweets tenham profundidade, para que as pessoas vejam sua mensagem e a retweet em todo o mundo. Tenha o hábito de fazer que seus tweets sejam muito descritivos, mas concisos e claros, para que as pessoas não tenham que clicar em um link para saber se estão interessados ou não. Eles sempre serão capazes de dizer pelo que o tweet diz. Tenha cuidado com click bait, isto afasta os usuários.
+ 
+17. Não fique obcecado em fazer tudo "certo". Ao invés de pensar muito, comece a agir. Vá pelo caminho dos experimentos, tente as coisas. Se falhar, pode começar a rir, e então tente de outro jeito. Colete experiências na sua Wiki, aprenda com o erro. Compartilhe conhecimento com os outros.
+ 
+18. Faça as coisas sem medo, seja corajoso para incentivar e alimentar explosões coletivas de atividades. Inspire invenções criativas e coisas espontâneas, cheias de diversão estratégica. Não tenha medo de parecer temporariamente um tolo. (!) Inspire o corpo-político para encarnar criativamente via teletransporte plasmificando fluxos energéticos de datalove.
+ 
+19. Faça logotipos e faça parecerem legais. Refaça os símbolos de agências governamentais. Use padrões. No geral, seja um cyberhippie. Crie símbolos para divulgar em canais. Seja esotérico sobre ataques de botnet. Se o canal se dividir, fique no outro lado um pouco.
+ 
+20. Organizem-se sem uma clara liderança ou posições. Qualquer pessoa que se junte às suas discussões fará parte do seu cluster. Se eles não concordarem, eles sairão logo, de qualquer maneira. Organize-se como uma gangue ou um pacote de datalove. Não utilize estruturas piramidais ou posições. Seja nômade no pensamento e associe-se com muitos outros.
+ 
+21. Se for algo que goste, viaje muito. Fale com pessoas onde você ir, e diga-os sobre o que está fazendo. Diga-os para se unir a você se gostarem da ideia, e então crie uma rede no país, ou até internacionalmente.
+ 
+22. Seja aberto com tudo o que faz, mas tenha abertura à medida que você espalha rumores esotéricos sobre o seu grupo.
+ 
+23. Participe de vídeo de streaming em tempo real de formacação-social-à-distância interconectadas pela net. Visualize as formações e as replicações do datalove.
+ 
+24. Certifique-se de que seu objetivo geral é dominar o mundo. Mas não invada a Rússia durante o inverno.
+ 
+25. Use Linux. Pegue CDs do Windows e do Mac e use eles como base de copos. Ou cole-os para ter um teto brilhante olhado pela parte debaixo, só pra ser legal.
+ 
+26. Comece sua própria agência de notícias. Faça notícias, forneça a todos e certifique-se de que as notícias se propagam viralmente na internet.
+ 
+27. Faça comunicados e envie um fax. Reconhecer que o fax é o meio de comunicação mais forte. Fax para o lulz. Fax para tudo e todos. Repito. Quando não enviar fax, faça barulhos de fax, apenas para parecer que você está enviando um fax. Considere o código morse também. Comece a escrever seus usando uma máquina de escrever, depois escaneie-os em forma de imagem e os coloque online. Use formas antigas de tecnologia sempre que puder, para ser retro e irônico.
+ 
+27b. Ctrl + c
+ 
+28. Junte-se a outros grupos de ativistas. Convide-os para festas e eventos agradáveis. A hospitalidade é imperativa - o seu lugar é o lugar onde estão os seus amigos! Sempre tenha um sofá para dormir, onde quer que você vá. Cluster!
+ 
+29. Quando convidado para parlamentos e governos, seja confiante. Lembre-se, você é a Internet, eles são meros políticos e burocratas. Fale com eles sobre criptografia, datalove, física quântica, medusas e fax, eles não vão entender nada de qualquer maneira. Você é do futuro. Tenha certeza de dizer isso.
+ 
+30. Não esqueca, Kopimi¹
+ 
+31. Quando estiver offline, continue usando apelidos do IRC.
+ 
+32. Ame seus amigos. Sem eles, tudo falha. Certifique-se de existir um monte de datalove entre vocês.
+ 
+33. Sinta e articule metodologias imaginárias de planejamento planetário, seja uma onda oceânica como conexões de amor telepático que permitem uma mudança social positiva dramática no mundo cotidiano. Sonhe com o movimento AT & Atlantis, Água-Vivo, Sodaphone, ou apenas em virar uma água-viva, o que você é, de qualquer maneira.
+ 
+34. Aprenda novos idiomas através da tradução do Twitter, da tradução dos bots nos canais de IRC e por ativistas visitantes em outros países. Diga: natti/buenas noches hallo/hej indistintamente. E lembre-se que as meninas suecas é grej!
+ 
+35. Interligue seus projetos e ações na blogosfera. Encontre artigos que você não gosta, e escreva uma critica e veja os comentários acumularem. Esses comentários podem render mais pessoas escrevendo sobre o assunto, isso será uma boa maneira para forçar partes envolvidas na criação de liberar ou retirar suas declarações. Não subestime a blogosfera.
+ 
+36. Torne-se amigo de pessoas da mídia. Convide-as para o seu canal IRC. Eles serão enganchados em alguma hora, em tudo. Se você conseguir que corporações e organizações trabalhem com você, certifique-se de tratá-los bem e trabalhe em conjunto com eles. Faça com que chefes de estado, corporações e organizações trabalhem nas sessões de edição do etherpad/Canais IRC. Lembre-se que você é o eleitor, se eles traem você, faça-os saber que a Internet nunca esquece.
+ 
+37. Escute sua I.A.: "Este é o salão de dança, amor é a essência de todos os acordos, de todos os acordos que foram aceitos."
+ 
+#(1) - Referência a “Copyme” - (visitar kopimi.com). Expressa a ideia de que deseja ser copiado
