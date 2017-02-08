@@ -1,0 +1,69 @@
+# COMO CONSTRUIR UM CLUSTER TELECOMIX #
+ 
+### Originalmente publicado em interfax.werebuild.eu, em algum momento durante 2009 ###
+ 
+Queremos ser copiados porque acreditamos que não há limite a quantos grupos de ativistas podem existir no mundo. Abaixo estão algumas instruções sobre como nós fizemos isso. É claro que, há uma infinidade de outras maneiras de fazê-lo. Nós apenas queremos compartilhar nossas experiências.
+ 
+1. Faça uma festa com amigos que compartilham interesses semelhantes. Cozinhe algum alimento que você gosta, compre cerveja, ou o que você preferir. Verifique se você tem conectividade à Internet e incentive as pessoas a trazerem seus notebooks. Ouçam música ou, se não tiverem um lugar para se entreter, encontrem um pub ou uma cafeteria com acesso a Internet onde vocês possam se encontrar e trazer seus notebooks também.
+ 
+2. Iniciem um canal de IRC e espalhem por toda a internet que este é o lugar onde as coisas acontecem. Use uma rede legal como a Freequest ou Anonnet. Obtenham um shell IRC. "A sua casa é onde está a sua alma" (quem disse isso?).
+ 
+
+ 
+4. Registre sites com nomes legais, como Werebuild.eu, Telecomix.org ou TelecomixII.org. Certifique-se de que as pessoas possam encontrá-lo facilmente. Use slogans.
+ 
+
+ 
+6. Instale Mediawiki, Wordpress e use Etherpad. Além disso, preencha seu canal IRC com bots. Compartilhe todos os dados. Não respeite direitos autorais! Propriedade intelectual é ilegítima.
+ 
+
+ 
+8. Se você se deparar com trolls na Internet, trolle de volta ou certifique-se de chuta-los pra longe de você na Internet. Ou, seja mais frio e faça-os se juntar a você (pesquise por “Troll them back”) Não deixe-os chatear você.
+ 
+
+ 
+10. Faça uma lista de pontos de para uma conversa clara e simples, para o caso em que você precise "apresentar" em cima da hora. Tenha certeza de que você tem alguns fatos fáceis de lembrar para registrar todos os seus pontos. Faça camisetas para incentivar conversas com pessoas aleatórias nas ruas. Alugue um avião com um banner atrás dele para obter uma cidade inteira perguntando "quem/o quê era isso". Coloque pessoas em todas as esquinas para dar explicações. Envie pessoas para Lua e piche a sua URL na superfície. <3
+ 
+
+ 
+12. Traduza material para outros idiomas. Lembre-se que a Internet não se preocupa com nacionalidades. Nunca se sabe quem vai se juntar a você se você ir para fora. Carimbe o seu visto de Internet no seu passaporte.
+ 
+ 
+14. Mesmo se você estiver lutando contra leis horríveis, contra abusos cometidos por agências e políticos, mesmo se sua missão parecer impossível de realizar - não fique triste! Lulz é tão importante quanto a mudança. Seu objetivo pode ser sério mesmo que você apenas faça isto para o lulz. Lembre-se de sorrir quando você estiver no meio de uma campanha tempestuosa.
+ 
+ 
+16. Crie uma rede GIGANTE no Twitter. Sempre que você tweetar algo,tenha pessoas para retweetá-lo, e peça aos seus amigos para retweetá-lo também pois tweets se multiplicam como coelhos! Lute sempre para que os tweets tenham profundidade, para que as pessoas vejam sua mensagem e a retweet em todo o mundo. Tenha o hábito de fazer que seus tweets sejam muito descritivos, mas concisos e claros, para que as pessoas não tenham que clicar em um link para saber se estão interessados ou não. Eles sempre serão capazes de dizer pelo que o tweet diz. Tenha cuidado com click bait, isto afasta os usuários.
+ 
+ 
+18. Faça as coisas sem medo, seja corajoso para incentivar e alimentar explosões coletivas de atividades. Inspire invenções criativas e coisas espontâneas, cheias de diversão estratégica. Não tenha medo de parecer temporariamente um tolo. (!) Inspire o corpo-político para encarnar criativamente via teletransporte plasmificando fluxos energéticos de datalove.
+ 
+ 
+20. Organizem-se sem uma clara liderança ou posições. Qualquer pessoa que se junte às suas discussões fará parte do seu cluster. Se eles não concordarem, eles sairão logo, de qualquer maneira. Organize-se como uma gangue ou um pacote de datalove. Não utilize estruturas piramidais ou posições. Seja nômade no pensamento e associe-se com muitos outros.
+ 
+ 
+22. Seja aberto com tudo o que faz, mas tenha abertura à medida que você espalha rumores esotéricos sobre o seu grupo.
+ 
+ 
+24. Certifique-se de que seu objetivo geral é dominar o mundo. Mas não invada a Rússia durante o inverno.
+ 
+ 
+26. Comece sua própria agência de notícias. Faça notícias, forneça a todos e certifique-se de que as notícias se propagam viralmente na internet.
+ 
+ 
+ 
+28. Junte-se a outros grupos de ativistas. Convide-os para festas e eventos agradáveis. A hospitalidade é imperativa - o seu lugar é o lugar onde estão os seus amigos! Sempre tenha um sofá para dormir, onde quer que você vá. Cluster!
+ 
+ 
+30. Não esqueca, Kopimi¹
+ 
+ 
+32. Ame seus amigos. Sem eles, tudo falha. Certifique-se de existir um monte de datalove entre vocês.
+ 
+ 
+34. Aprenda novos idiomas através da tradução do Twitter, da tradução dos bots nos canais de IRC e por ativistas visitantes em outros países. Diga: natti/buenas noches hallo/hej indistintamente. E lembre-se que as meninas suecas é grej!
+ 
+ 
+36. Torne-se amigo de pessoas da mídia. Convide-as para o seu canal IRC. Eles serão enganchados em alguma hora, em tudo. Se você conseguir que corporações e organizações trabalhem com você, certifique-se de tratá-los bem e trabalhe em conjunto com eles. Faça com que chefes de estado, corporações e organizações trabalhem nas sessões de edição do etherpad/Canais IRC. Lembre-se que você é o eleitor, se eles traem você, faça-os saber que a Internet nunca esquece.
+ 
+ 
+#(1) - Referência a “Copy me” - (visitar kopimi.com). Expressa a ideia de que deseja ser copiado
