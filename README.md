@@ -34,18 +34,6 @@ Disponível em: http://twitter.com/TelecomixBrasil
 * ❌ Tradução de artigos da wiki em inglês: 
 //necessita
 Disponível em: https://cryptoanarchy.freed0m4all.net/wiki/Main_Page
-  
-
-### Agradecimentos (em ordem alfabética):
-
-* AndersBateva
-* Alchemicus
-* c0sm1c
-* Gustaf
-* OneTimePad
-* pr1mus
-
-Se você colaborou com algo, adicione seu nome a lista e coloque seu username com link para seu GitHub.
 
 License
 ----
