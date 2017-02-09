@@ -1,0 +1,12 @@
+body {
+	font-size: 20px;
+	background-image: url('bg.jpeg');
+	margin:0;
+}
+.menu a {
+	margin-left: 5px;
+	font-size: 0;
+}
+p {
+	text-align: left;
+}
