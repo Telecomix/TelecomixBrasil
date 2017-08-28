@@ -21,8 +21,8 @@ https://github.com/Telecomix/TelecomixBrasil/blob/master/telecomixii.org/irc.htm
 
 - [x] Logo "brasileira" em alta qualidade (novas logos são bem vindas)
 
-- [ ] Página do Wikipédia [http://pt.wikipedia.org/wiki/Telecomix] 
-//Traduções são bem vindas)
+- [x] Página do Wikipédia [http://pt.wikipedia.org/wiki/Telecomix] 
+//Traduções e adições são bem vindas
 
 - [ ] Site do Telecomix.org 
 //Em andamento
